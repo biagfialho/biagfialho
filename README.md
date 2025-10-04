@@ -18,7 +18,7 @@
 
 ## 🧰 Tecnologias que uso
 
-| Testes & Automação | APIs & Integração | Versionamento & CI/CD | BI & Análise |
+| Testes & Automação | APIs & Integração | Versionamento & CI/CD |
 |--------------------|-------------------|------------------------|--------------|
 | Python, Selenium, Cypress | Postman, Swagger, REST | Git, GitHub, GitLab CI/CD | 
 
