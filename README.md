@@ -1,4 +1,4 @@
-# 👩‍💻 Hey, sou a Bianca! 
+# 👩‍💻 Olá, sou a Bianca! 
 
 🌱 Migrando da Administração → Tecnologia  
 🐞 Bug Hunter em treinamento (QA)  
