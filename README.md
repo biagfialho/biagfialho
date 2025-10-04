@@ -9,10 +9,10 @@
 
 ## 🚀 Minhas metas
 
+- 🌟 Estou sempre em busca de novas oportunidades para expandir meus conhecimentos e contribuir para projetos inovadores. Meu objetivo é continuar evoluindo, aproveitando as últimas tendências e tecnologias para criar soluções impactantes. 
 - ✅ Concluir minha especialização em **Testes Ágeis** pela CESAR School  
 - 🧪 Criar projetos open source em **QA e Automação**  
-- 🤝 Trabalhar em equipes ágeis e colaborativas  
-- 📚 Aprender mais sobre **testes de performance** e **CI/CD pipelines**
+- 🤝 Trabalhar em equipes ágeis e colaborativas.
 
 ---
 
@@ -71,3 +71,4 @@ Quando não estou caçando bugs ou estudando automação, adoro **viajar e explo
 
 > “Testar é mais do que encontrar bugs — é garantir valor, confiança e qualidade.”
 
+📚 *Obrigada por visitar meu perfil! Se você compartilha do mesmo entusiasmo por criar experiências digitais excepcionais, adoraria conversar!*
