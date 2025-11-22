@@ -3,7 +3,8 @@
 🌱 Migrando da Administração → Tecnologia  
 🐞 Bug Hunter em treinamento (QA)  
 📊 Amante de dados e automação  
-📚 Viciada em aprendizado contínuo  
+📚 Viciada em aprendizado contínuo — atualmente estudando **HTML, CSS e automação de testes**
+
 
 ---
 
@@ -26,16 +27,20 @@
 
 ## 📂 Projetos em destaque
 
+- 🔹 [Nikel](https://github.com/biagfialho/nikel) — Aplicação web para controle financeiro pessoal
 - 🔹 [Automação Bancária](https://gitlab.com/seuprojeto) – Testes automatizados com Selenium e Python  
 - 🔹 [Site de Compras](https://gitlab.com/seuprojeto) – Validação de fluxo de compra e testes de regressão  
 - 🔹 [API Correios](https://gitlab.com/seuprojeto) – Testes de endpoints REST e autenticação com Postman
+- 🔹 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- 🔹 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
 
 ---
 
 ## 📜 Certificações
 
 - Engenharia de plataforma – CESAR School - Set/2025 (80h)  
-- Pós-graduação em Testes Ágeis – CESAR School *(em andamento)*
+- Pós-graduação em Testes Ágeis – CESAR School *(Abr/2026)*
 - Administração - Uninassau - 2012
 
 ---
@@ -53,6 +58,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/biancafialhoo)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/biagfialho)  
+
 📧 bianca.fialho@hotmail.com
 
 ---
