@@ -30,8 +30,14 @@ Atualmente, meu foco está em **testes ágeis, automação e qualidade de proces
 ### 🧪 Testes & Automação
 - Python  
 - Selenium  
-- Cypress  
-- Testes funcionais e de regressão  
+- Testes funcionais e de regressão
+
+### 📱 Testes Mobile
+- Testes funcionais em aplicações mobile  
+- Validação de fluxos e interfaces
+- Android studio
+- Appium inspector
+- Vysor
 
 ### 🔌 APIs & Integrações
 - Postman  
@@ -98,7 +104,7 @@ Aprecio trilhas, cachoeiras e contato com a natureza. Esses momentos me ajudam a
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=biagfialho&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biagfialho&show_icons=true&theme=dark)
 
 ---
 
