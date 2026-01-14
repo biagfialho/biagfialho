@@ -1,58 +1,87 @@
-# 👩‍💻 Olá, sou a Bianca Fialho!
+# 👩‍💻 Bianca Fialho | Quality Assurance & Test Automation
 
-🌱 Migrando da Administração para a Tecnologia  
-🐞 Bug Hunter em treinamento (QA)  
-📊 Apaixonada por dados, automação e qualidade  
-📚 Estudando **HTML, CSS, JavaScript e automação de testes**
-
----
-
-## 🚀 Metas e Propósito
-
-Estou em constante evolução, buscando aplicar tecnologia com propósito. Meu foco atual é:
-
-- ✅ Concluir a pós-graduação em **Testes Ágeis** pela CESAR School  
-- 🧪 Criar projetos open source em **QA e automação**  
-- 🤝 Colaborar em times ágeis e inclusivos  
-- 🌟 Aprender novas ferramentas e boas práticas de desenvolvimento
+🌱 Profissional em transição da Administração para Tecnologia  
+🧪 QA em formação com foco em Testes Ágeis e Automação  
+📊 Interessada em qualidade de software, dados e melhoria contínua  
+📚 Estudando HTML, CSS, JavaScript, Python e automação de testes
 
 ---
 
-## 🧰 Tecnologias que uso
+## 🚀 Sobre mim
 
-| Testes & Automação       | APIs & Integração     | Versionamento & CI/CD     |
-|--------------------------|------------------------|----------------------------|
-| Python, Selenium, Cypress| Postman, Swagger, REST | Git, GitHub, GitLab CI/CD  |
+Sou uma profissional em constante evolução, unindo visão de negócio à tecnologia para entregar **software com qualidade, valor e confiabilidade**.
 
----
-
-## 📂 Projetos em destaque
-
-- 🔹 [Nikel](https://github.com/biagfialho/nikel) — Aplicação web para controle financeiro pessoal com HTML, CSS, JS e Bootstrap  
-- 🔹 Automação Bancária – Testes automatizados com Selenium e Python *(GitLab privado)*  
-- 🔹 Site de Compras – Validação de fluxo de compra e testes de regressão *(GitLab privado)*  
-- 🔹 API Correios – Testes de endpoints REST e autenticação com Postman *(GitLab privado)*  
+Atualmente, meu foco está em **testes ágeis, automação e qualidade de processos**, sempre buscando boas práticas, aprendizado contínuo e colaboração em times ágeis.
 
 ---
 
-## 📜 Certificações
+## 🎯 Objetivos Profissionais
 
+- ✅ Concluir a pós-graduação em **Testes Ágeis** (CESAR School)  
+- 🧪 Desenvolver projetos práticos em **QA e automação de testes**  
+- 🔁 Aplicar testes funcionais, exploratórios e automatizados  
+- 🤝 Atuar em times ágeis, colaborativos e orientados à qualidade  
+- 📈 Evoluir continuamente em ferramentas, técnicas e mindset de QA
+
+---
+
+## 🧰 Tecnologias & Ferramentas
+
+### 🧪 Testes & Automação
+- Python  
+- Selenium  
+- Cypress  
+- Testes funcionais e de regressão  
+
+### 🔌 APIs & Integrações
+- Postman  
+- Swagger  
+- REST APIs  
+
+### 🔄 Versionamento & CI/CD
+- Git  
+- GitHub  
+- GitLab CI/CD  
+
+---
+
+## 📂 Projetos em Destaque
+
+- 🔹 **Plano de Teste – Bugbank**  
+  Repositório com um **plano de teste completo** para o sistema bancário BugBank, contendo estratégia de testes, casos e checklist — evidenciando capacidade de QA e documentação.
+
+- 🔹 **Automação e Testes Mobile – Simulação Uber**  
+  Automação e testes de um fluxo mobile inspirado no app Uber, com validações e cenários ponta a ponta para dispositivos móveis.
+
+- 🔹 **Página Ada Lovelace**  
+  Página web construída com HTML e CSS, demonstrando estrutura sólida e práticas fundamentals de front-end.
+
+- 🔹 **Nikel**  
+  Aplicação web para controle financeiro pessoal com HTML, CSS, JavaScript e Bootstrap.
+
+- 🔹 **Projetos privados em QA** (Automação Bancária, Site de Compras, API Correios)  
+  Testes automatizados em Python/Selenium, validação de fluxo e testes de APIs REST.
+ 
+---
+
+## 🎓 Formação & Certificações
+
+- Pós-graduação em **Testes Ágeis** – CESAR School *(Abr/2026)*  
 - Engenharia de Plataforma – CESAR School *(Set/2025)*  
-- Pós-graduação em Testes Ágeis – CESAR School *(Abr/2026)*  
-- Administração – Uninassau *(2012)*
+- Bacharelado em Administração – Uninassau *(2012)*  
 
 ---
 
 ## 💬 Soft Skills
 
 - Comunicação clara e objetiva  
-- Raciocínio lógico e resolução de problemas  
+- Pensamento analítico e resolução de problemas  
 - Organização e atenção aos detalhes  
-- Facilidade de aprendizado e adaptação
+- Facilidade de aprendizado e adaptação  
 
 ---
 
-## 🌍 Onde me encontrar
+## 🌍 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/biancafialhoo)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/biagfialho)  
@@ -61,9 +90,9 @@ Estou em constante evolução, buscando aplicar tecnologia com propósito. Meu f
 
 ---
 
-## 🌿 Hobby
+## 🌿 Além do código
 
-Fora do código, sou apaixonada por **trilhas, cachoeiras e natureza**. Esses momentos me ajudam a manter o foco, a criatividade e o equilíbrio.
+Aprecio trilhas, cachoeiras e contato com a natureza. Esses momentos me ajudam a manter foco, criatividade e equilíbrio.
 
 ---
 
@@ -73,6 +102,4 @@ Fora do código, sou apaixonada por **trilhas, cachoeiras e natureza**. Esses mo
 
 ---
 
-> “Testar é mais do que encontrar bugs — é garantir valor, confiança e qualidade.”
-
-📚 *Obrigada por visitar meu perfil! Se você compartilha esse entusiasmo por criar experiências digitais excepcionais, vamos conversar!*
+> “Qualidade não é apenas encontrar bugs, é garantir confiança e valor ao usuário.”
