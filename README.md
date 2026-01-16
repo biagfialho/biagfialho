@@ -106,7 +106,6 @@ Aprecio trilhas, cachoeiras e contato com a natureza. Esses momentos me ajudam a
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biagfialho&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-
 ---
 
 > “Qualidade não é apenas encontrar bugs, é garantir confiança e valor ao usuário.”
