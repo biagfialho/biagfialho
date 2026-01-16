@@ -104,11 +104,7 @@ Aprecio trilhas, cachoeiras e contato com a natureza. Esses momentos me ajudam a
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biagfialho&show_icons=true&theme=dark&cache_seconds=86400)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biagfialho&show_icons=true&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biagfialho&show_icons=true&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biagfialho&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 
 ---
