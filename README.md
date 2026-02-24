@@ -5,12 +5,10 @@
 🧪 Testes funcionais, regressão e automação com Python  
 📊 Background em Administração + visão de negócio aplicada à tecnologia
 
-
 ## 🚀 Sobre mim
 
 Sou uma profissional em constante evolução, unindo visão de negócio à tecnologia para entregar **software com qualidade, valor e confiabilidade**.
 Atualmente, meu foco está em **testes ágeis, automação e qualidade de processos**, sempre buscando boas práticas, aprendizado contínuo e colaboração em times ágeis.
-
 
 ## 🎯 Objetivos Profissionais
 
@@ -29,7 +27,7 @@ Atualmente, meu foco está em **testes ágeis, automação e qualidade de proces
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-# 📊 Quality Assurance Dashboard
+# 📊 Dashboard
 
 ## 🧪 Experiência Prática em QA
 
@@ -69,26 +67,21 @@ Cypress (em evolução)     ███░░░░░░░ 30%
 ✔ Comunicação clara de falhas  
 ✔ Qualidade como responsabilidade compartilhada  
 
----
+
 ## 🌍 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/biancafialhoo)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/biagfialho)  
-[![Outlook](bianca.fialho@hotmail.com)
+📧 [bianca.fialho@hotmail.com](mailto:bianca.fialho@hotmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=biagfialho&color=blue)
 
+## 📈 GitHub 
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=biagfialho&theme=tokyo-night)
 
 ## 🌿 Além do código
 
 Aprecio trilhas, cachoeiras e contato com a natureza. Esses momentos me ajudam a manter foco, criatividade e equilíbrio.
-
-
-## 📈 GitHub 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biagfialho&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=biagfialho&theme=tokyo-night)
-
 
 > “Qualidade não é apenas encontrar bugs, é garantir confiança e valor ao usuário.”
