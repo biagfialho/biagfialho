@@ -9,7 +9,6 @@
 ## 🚀 Sobre mim
 
 Sou uma profissional em constante evolução, unindo visão de negócio à tecnologia para entregar **software com qualidade, valor e confiabilidade**.
-
 Atualmente, meu foco está em **testes ágeis, automação e qualidade de processos**, sempre buscando boas práticas, aprendizado contínuo e colaboração em times ágeis.
 
 
@@ -30,12 +29,7 @@ Atualmente, meu foco está em **testes ágeis, automação e qualidade de proces
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-# 📊 Quality Engineering Dashboard
-
-## 🎯 Posicionamento Atual
-QA com foco em automação, análise de risco e melhoria contínua  
-Background em Administração aplicado à visão de negócio em tecnologia  
-
+# 📊 Quality Assurance Dashboard
 
 ## 🧪 Experiência Prática em QA
 
@@ -78,12 +72,9 @@ Cypress (em evolução)     ███░░░░░░░ 30%
 ---
 ## 🌍 Conecte-se comigo
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=biagfialho&theme=tokyo-night)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/biancafialhoo)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/biagfialho)  
-
-📧 bianca.fialho@hotmail.com
+[![Outlook](bianca.fialho@hotmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=biagfialho&color=blue)
 
