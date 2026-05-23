@@ -1,92 +1,129 @@
-# 👩‍💻 Bianca Fialho  
-### Quality Assurance | Test Automation | Agile Testing
+<div align="center">
 
-💡 Transformando requisitos em software confiável  
-🧪 Testes funcionais, regressão e automação com Python  
-📊 Background em Administração + visão de negócio aplicada à tecnologia
+# 👋 Olá! Sou Bianca Fialho
 
-## 🚀 Sobre mim
+### QA Analyst · Test Automation · Agile Tester
 
-Sou uma profissional em constante evolução, unindo visão de negócio à tecnologia para entregar **software com qualidade, valor e confiabilidade**.
-Atualmente, meu foco está em **testes ágeis, automação e qualidade de processos**, sempre buscando boas práticas, aprendizado contínuo e colaboração em times ágeis.
+**Transformando requisitos em software confiável — com visão de negócio e precisão técnica.**
 
-## 🎯 Objetivos Profissionais
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/biancafialhoo)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bianca.fialho@hotmail.com)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-C2185B?style=flat&logo=vercel&logoColor=white)](https://bianca-fialho-showcase.lovable.app/?utm_source=github&utm_medium=readme&utm_campaign=portfolio)
 
-- ✅ Concluir a pós-graduação em **Testes Ágeis** (CESAR School)  
-- 🧪 Desenvolver projetos práticos em **QA e automação de testes**  
-- 🔁 Aplicar testes funcionais, exploratórios e automatizados  
-- 🤝 Atuar em times ágeis, colaborativos e orientados à qualidade  
-- 📈 Evoluir continuamente em ferramentas, técnicas e mindset de QA
+</div>
 
-## 🧰 Tecnologias
+---
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+## 🧪 Sobre mim
 
+Sou QA Analyst em transição ativa para tecnologia, com **Especialização em Testes Ágeis pela CESAR School** e experiência real como QA no **Projeto Pipoca Ágil** (Scrum/squads). Trago como diferencial **12 anos de análise de processos, elicitação de requisitos e monitoramento de indicadores** na Sherwin-Williams — habilidades que aplico diretamente à qualidade de software como ponte entre negócio e desenvolvimento.
 
-# 📊 Dashboard
+Atualmente sou **Tutora de Tecnologia no CESAR School**, no Programa Florescendo Talentos, e estou graduando em Análise e Desenvolvimento de Sistemas (FICR).
 
-## 🧪 Experiência Prática em QA
+---
 
-✔ Planejamento e documentação de testes (Plano de Teste + Casos)  
-✔ Testes funcionais e de regressão  
-✔ Automação com Python + Selenium  
-✔ Estruturação de Page Object Model  
-✔ Testes de API REST (Postman + Swagger)  
-✔ Testes mobile Android  
-✔ Versionamento com Git e integração CI/CD  
+## 🎯 O que já fiz na prática
 
+**TCC — Auditoria de Acessibilidade Web:**
+- Análise automatizada de conformidade **WCAG 2.1 AA** e **eMAG** em sites reais (Americanas e Gov.br)
+- Stack: Cypress + axe-core + Mochawesome — foco em deficiência visual
 
-## 📈 Evolução Técnica
+**No Projeto Pipoca Ágil (7 meses, Scrum real):**
+- Testes funcionais, exploratórios e regressão em fluxos críticos (login, cadastro, pagamentos)
+- Criação de Planos de Teste, Casos de Teste e Cenários com base em User Stories
+- Bug Reports estruturados e participação em dailies, plannings e reviews
 
-Python & Automação        █████████░ 85%  
-Selenium (Web)            ████████░░ 75%  
-Testes de API             ███████░░░ 70%  
-Git & CI/CD               ██████░░░░ 60%  
-Testes Mobile             █████░░░░░ 55%  
-Cypress (em evolução)     ███░░░░░░░ 30%  
+**Nos projetos deste GitHub:**
+- Automação E2E com **Selenium (POM)** e **Cypress**
+- Testes de **API REST** com Postman e Swagger
+- Testes **mobile Android** com Appium
+- **BDD** (Given/When/Then) com auditoria de acessibilidade automatizada
+- Pipelines **CI/CD** com GitHub Actions
+- Documentação técnica completa: Planos de Teste, Casos de Teste, Bug Reports
 
+---
 
-## 🚀 Roadmap Estratégico 2026
+## 🏆 Projetos em Destaque
 
-- [ ] Testes paralelos e execução distribuída  
-- [X] Integração de automação em pipeline CI/CD completo  
-- [ ] Relatórios avançados (Allure)  
-- [ ] Docker aplicado a ambientes de teste  
-- [X] Testes de performance (conceitos e prática)  
+| # | Projeto | Descrição | Stack | Link |
+|---|---------|-----------|-------|------|
+| ⭐ | **Accessibility Audit — TCC** | Auditoria WCAG 2.1 AA + eMAG em Americanas e Gov.br | Cypress · axe-core · eMAG · Mochawesome | [→](https://github.com/biagfialho/accessibility-audit) |
+| ⭐ | **QA Rubeus** | Testes E2E + BDD + acessibilidade + CI/CD em plataforma real | Cypress · axe-core · BDD · GitHub Actions | [→](https://github.com/biagfialho/qa-rubeus) |
+| ⭐ | **Desafio QA Beedoo 2026** | 30 casos de teste · 8 bugs (2 críticos) · análise estruturada | Casos de Teste · Bug Report · CSV | [→](https://github.com/biagfialho/DESAFIO-QA-BEEDOO-2026) |
+| 🔹 | **AutoBank** | Automação de fluxos bancários com Page Object Model | Python · Selenium · POM · Pytest | [→](https://github.com/biagfialho/autobank) |
+| 🔹 | **Automação Mobile — Uber** | Testes E2E mobile no app Uber para Android | Appium · Android Studio · Python | [→](https://github.com/biagfialho/ETA_automacao_e_Testes_Mobile---Uber) |
+| 🔹 | **Plano de Teste — BugBank** | Plano completo para sistema bancário com análise de riscos | Casos de Teste · Sistema Financeiro | [→](https://github.com/biagfialho/PLANO-DE-TESTE-SISTEMA-BANC-RIO-BUGBANK) |
+| 🔹 | **Nikel — Web Interface** | Interface web com HTML, CSS e JavaScript | HTML · CSS · JavaScript | [→](https://github.com/biagfialho/nikel) |
 
+---
 
-## 🧠 Mentalidade de Qualidade
+## 🛠️ Stack Técnica
 
-✔ Análise crítica de requisitos antes da execução  
-✔ Foco em cenários críticos e riscos de negócio  
-✔ Automação com propósito (ROI técnico)  
-✔ Comunicação clara de falhas  
-✔ Qualidade como responsabilidade compartilhada  
+**Testes & Qualidade**
 
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=flat&logo=appium&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)
 
-## 🌍 Conecte-se comigo
+**Linguagens**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/biancafialhoo)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/biagfialho)  
-[![Email](https://img.shields.io/badge/-Hotmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bianca.fialho@hotmail.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-📧 bianca.fialho@hotmail.com
+**DevOps & Versionamento**
 
-![Profile Views](https://komarev.com/ghpvc/?username=biagfialho&color=blue)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A9EDC?style=flat&logo=githubactions&logoColor=white)
 
-## 📈 GitHub 
+**No-Code & IA**
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=biagfialho&theme=tokyo-night)
+![N8n](https://img.shields.io/badge/N8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-C2185B?style=flat&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-C2185B?style=flat&logo=anthropic&logoColor=white)
+
+**Gestão Ágil**
+
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+---
+
+## 🎓 Formação & Certificações
+
+- 🎓 **Especialização em Testes Ágeis** — CESAR School ✅
+- 🎓 **Tecnólogo em ADS** — FICR (em andamento, 2028)
+- 📜 Fundamentos de Python — UFPE / Programe.py (2026)
+- 📜 Front-End, Lovable, N8n, Supabase — Growdev (2025)
+- 📜 Trilha DevOps, Cloud, Redes, Agilidade — CESAR School (2025)
+- 📜 Git/GitHub, AWS, .NET, IA aplicada a dados — DIO (2025)
+- 📜 Programa DiverseDEV — Ada Tech & Mercado Eletrônico (2025)
+
+---
 
 ## 🌿 Além do código
 
-Aprecio trilhas, cachoeiras e contato com a natureza. Esses momentos me ajudam a manter foco, criatividade e equilíbrio.
+Sou apaixonada por viagens, trilhas e natureza — esses momentos me ajudam a manter foco, criatividade e equilíbrio. Sou de Pernambuco, cristã, e acredito que qualidade é um ato de respeito com quem usa o que a gente constrói.
 
-> “Qualidade não é apenas encontrar bugs, é garantir confiança e valor ao usuário.”
+> *"Qualidade não é apenas encontrar bugs — é garantir confiança e valor a quem usa o produto."*
+
+---
+
+<div align="center">
+
+📧 bianca.fialho@hotmail.com · 📍 Abreu e Lima, PE · 🔗 [linkedin.com/in/biancafialhoo](https://linkedin.com/in/biancafialhoo)
+
+🌐 [bianca-fialho-showcase.lovable.app](https://bianca-fialho-showcase.lovable.app/?utm_source=github&utm_medium=readme&utm_campaign=portfolio)
+
+</div>
